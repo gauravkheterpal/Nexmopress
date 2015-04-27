@@ -1,0 +1,33 @@
+.comment-form-phone:before,
+.comment-form-phone:after
+{
+
+content: "";
+	display: table;
+
+}
+.comment-form .comment-form-phone
+ {
+	margin-bottom: 8px;
+}
+.comment-form [for="phone"]
+{
+
+	float: left;
+	padding: 5px 0;
+	width: 120px;
+}
+
+.comment-form input[type="phone"] {
+	max-width: 270px;
+	width: 60%;
+}
+.comment-form input[type="phone"] {
+		width: -webkit-calc(100% - 120px);
+		width:         calc(100% - 120px);
+	}
+.comment-form-phone:after {
+	clear: both;
+}
+
+
