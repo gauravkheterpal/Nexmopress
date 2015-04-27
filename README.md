@@ -7,6 +7,8 @@ Nexmopress uses the Number Verify capabilities offered by Nexmo and integrates i
 1. [Wordpress 4.0 or above](https://wordpress.org/)
 3. [MySQL](http://www.mysql.com) is used 
 
+## Demo Video
+http://www.screencast.com/t/XeYojcCWX7m
 
 ## Installation
 1. Go to Plugins -> Upload.
@@ -35,3 +37,5 @@ Once you've entered your number, the plugin uses Nexmo's Verify Number capabilit
 Nexmopress is a demonstrator of how powerful the Nexmo platform capabilities are and how it can be integrated to enhance Wordpress to make it more secure. Of course, in it's current form, Nexmopress is just the tip of the iceberg and it can be expanded further to generate more powerful analytics for Wordpress users based on the wealth of information provided by Nexmo API.
 
 I had a lot of fun building Nexmopress for the Nexmo Developer Contest and I hope you've as much fun evaluating it. May the best app win!
+
+
